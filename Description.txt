@@ -1,0 +1,16 @@
+Name: Umar Hussain
+Class: BESE-4A
+REG. No.: 05038
+
+Github: github.com/umarhussain/ap_ex_1
+
+Solution:
+
+First create a class of SmartString where we have a vector<char> where string is stored as char vector.
+Then we have append() method which converts incoming string to char and pushback to vector. this can be used to append and 
+store string.
+
+the we have getcharat() which takes integer input to get char from vector, also checking index is with in limit.
+
+In length() it return the length of vector which is actually the length of string.
+
